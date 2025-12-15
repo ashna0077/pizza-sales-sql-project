@@ -85,11 +85,10 @@ Detailed insights and recommendations are documented in:
 
 ---
 
-## How to Run the Project
-1. Create a MySQL database  
-2. Run the `schema.sql` file to create tables  
-3. Import the CSV files into the database  
-4. Execute queries from `03_SQL_Queries.sql`
+How to Run the Project
+
+1. Create a MySQL database
+2. Run the table creation and analysis queries from `03_SQL_Queries.sql`
 
 ---
 
