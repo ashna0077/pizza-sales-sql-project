@@ -1,3 +1,11 @@
+/*
+Project: Pizza Sales Analysis
+Database: MySQL
+Description:
+This file contains SQL queries used to analyze pizza sales data,
+answer business questions, and generate insights related to revenue,
+orders, and product performance.
+*/
 create database pizza_db;
 use pizza_db;
 create table orders(
